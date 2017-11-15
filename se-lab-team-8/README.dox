@@ -1,0 +1,12 @@
+/**
+
+@mainpage Software Engineering Lab Team 8 Project
+
+@author Akbar Oripov (aoripov)
+@author Inti Mendoza (theElemelon)
+@author Qifan Shu (Alprazolam)
+@author Vlad Frasineanu (vcfrasineanu)
+
+Robot implementation as stand alone ROS package.
+
+*/
